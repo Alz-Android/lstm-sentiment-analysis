@@ -171,7 +171,9 @@ data/
 datasets/
 *.csv
 *.json
-*.txt
+data*.txt
+dataset*.txt
+test_data*.txt
 
 # Logs
 logs/
